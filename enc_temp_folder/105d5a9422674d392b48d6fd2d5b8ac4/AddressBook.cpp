@@ -43,7 +43,6 @@ void addPerson(Addressbooks * abs) {
 		//性别
 		cout << "1 --- 男" << endl;
 		cout << "2 --- 女" << endl;
-
 		while (true)
 		{
 			cout << "请输入性别：" << endl;
